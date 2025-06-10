@@ -28,7 +28,7 @@
 
 ## 🚀 Sobre Mim
 
-Sou apaixonado por tecnologia e atualmente trabalho como suporte técnico e desenvolvedor na **Zandoná Serviços e Software**.<br>
+Sou apaixonado por tecnologia e inovações.<br>
 Meu objetivo é ser um desenvolvedor **fullstack**, com conhecimentos sólidos tanto em front-end quanto em back-end.
 
 > _"Código com propósito, crescimento com direção."_
@@ -78,11 +78,9 @@ Meu objetivo é ser um desenvolvedor **fullstack**, com conhecimentos sólidos t
 
 ## 📫 Onde Me Encontrar
 
-- 💼 [LinkedIn (em construção)](https://www.linkedin.com/in/joaobiffi) <!-- Atualize quando disponível -->
+- 💼 [LinkedIn](www.linkedin.com/in/joão-antonio-biffi-165ba136a)
 - 📬 **Email:** ja.abiffi@gmail.com
 - 🌐 [Portfólio (em construção)](https://joaobiffi.dev) <!-- Atualize quando disponível -->
-- 📝 [Meu GitHub](https://github.com/JoaoAntonio08)
-
 ---
 
 <p align="center">
@@ -111,7 +109,7 @@ Meu objetivo é ser um desenvolvedor **fullstack**, com conhecimentos sólidos t
 
 ## 🚀 About Me
 
-I'm passionate about technology and currently work as a technical support and developer at **Zandoná Serviços e Software**.<br>
+I'm passionate about technology and inovation<br>
 My goal is to become a **fullstack developer**, mastering both front-end and back-end.
 
 > _"Code with purpose, grow with direction."_
@@ -161,11 +159,10 @@ My goal is to become a **fullstack developer**, mastering both front-end and bac
 
 ## 📫 Where to Find Me
 
-- 💼 [LinkedIn (under construction)](https://www.linkedin.com/in/joaobiffi) <!-- Update when available -->
+- 💼 [LinkedIn](www.linkedin.com/in/joão-antonio-biffi-165ba136a)
 - 📬 **Email:** ja.abiffi@gmail.com
 - 🌐 [Portfolio (under construction)](https://joaobiffi.dev) <!-- Update when available -->
-- 📝 [My GitHub](https://github.com/JoaoAntonio08)
-
+- 
 ---
 
 <p align="center">
