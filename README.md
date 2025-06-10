@@ -159,7 +159,7 @@ My goal is to become a **fullstack developer**, mastering both front-end and bac
 
 ## 📫 Where to Find Me
 
-- 💼 [LinkedIn](www.linkedin.com/in/joão-antonio-biffi-165ba136a)
+- 💼 [LinkedIn](https://www.linkedin.com/in/joão-antonio-biffi-165ba136a/)
 - 📬 **Email:** ja.abiffi@gmail.com
 - 🌐 [Portfolio (under construction)](https://joaobiffi.dev) <!-- Update when available -->
 - 
