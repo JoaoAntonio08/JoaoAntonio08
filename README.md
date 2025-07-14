@@ -71,6 +71,7 @@ Meu objetivo é ser um desenvolvedor **fullstack**, com conhecimentos sólidos t
 | **The Collector Binarie** | IDE baseada em código binário, com uma IA interativa | Python        |
 | **Mini-Sistema**     | Um programa com várias opções de Menu, com diversas funcionalidades, e coisas para se fazer  | C#           |
 | **Lista de Tarefas**    | Uma simples Lista de Tarefas com Firebase, onde consegue controlar suas tarefas               | ReactJS, Firebase  |
+| **Pomodoro**    |  Um simples app para te ajudar com estudos, através da prática de aprendizado Pomodoro               | HTML, CSS, JS, SQL e Python  |
 
 <sup>🔗 Mais projetos em breve no portfólio!</sup>
 
@@ -152,6 +153,7 @@ My goal is to become a **fullstack developer**, mastering both front-end and bac
 | **The Collector Binarie** | IDE based on binary code, with an interactive AI                                 | Python               |
 | **Mini-System**           | A program with several menu options and multiple functionalities                 | C#                   |
 | **Task List**             | A simple Task List with Firebase, allowing you to manage your tasks easily       | ReactJS, Firebase    |
+| **Pomodoro** | A simple app to help you with your studies, through the Pomodoro learning practice | HTML, CSS, JS, SQL and Python |
 
 <sup>🔗 More projects soon in the portfolio!</sup>
 
