@@ -81,7 +81,6 @@ Meu objetivo é ser um desenvolvedor **fullstack**, com conhecimentos sólidos t
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/joão-antonio-biffi-165ba136a/)
 - 📬 **Email:** ja.abiffi@gmail.com
-- 🌐 [Portfólio (em construção)](https://joaobiffi.dev) <!-- Atualize quando disponível -->
 ---
 
 <p align="center">
@@ -163,7 +162,6 @@ My goal is to become a **fullstack developer**, mastering both front-end and bac
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/joão-antonio-biffi-165ba136a/)
 - 📬 **Email:** ja.abiffi@gmail.com
-- 🌐 [Portfolio (under construction)](https://joaobiffi.dev) <!-- Update when available -->
 - 
 ---
 
