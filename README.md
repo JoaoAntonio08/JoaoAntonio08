@@ -10,84 +10,84 @@
 
 ## <a id="pt-br">🇧🇷 Português</a>
 
-<h1 align="center">👋 Olá! Eu sou o João Biffi</h1>
-<p align="center">💻 Estudante de Desenvolvimento & Futuro Fullstack | 📍 Cascavel - PR | 🧠 Sempre em Evolução</p>
+<h1 align="center">👋 Olá — Eu sou o João Biffi</h1>
+<p align="center">Desenvolvedor em formação — fullstack em construção. 📍 Cascavel - PR | 🧠 Sempre aprendendo</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Pascal-35495E?style=for-the-badge&logo=delphi&logoColor=white" alt="Pascal"/>
   <img src="https://img.shields.io/badge/-Delphi-EC1C24?style=for-the-badge&logo=delphi&logoColor=white" alt="Delphi"/>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
   <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/-Firebird-E31B23?style=for-the-badge&logo=firebird&logoColor=white" alt="Firebird"/>
 </p>
 
 ---
 
-## 🚀 Sobre Mim
+## Sobre mim
 
-Sou apaixonado por tecnologia e inovações. Meu objetivo é ser um desenvolvedor **fullstack**, com conhecimentos sólidos tanto em front-end quanto em back-end.
-
-> _"Código com propósito, crescimento com direção."_
+Sou João Biffi — estudante de desenvolvimento que transforma curiosidade em projetos. Gosto de construir soluções práticas que resolvem problemas reais, com foco em usabilidade e código limpo. Atualmente estou fortalecendo conhecimentos em front-end moderno (React/JavaScript) e ferramentas back-end leves.
 
 ---
 
-## 🧠 Skills & Ferramentas
+## Skills & Ferramentas
 
-- **Linguagens:** Pascal, Delphi, Python, C, C#, JavaScript, HTML
-- **Frameworks & Bibliotecas:** React, VCL/Firemonkey (Delphi), PyQt5
-- **Bancos de Dados:** SQLite, Firebird, Firebase
-- **Ferramentas:** Git, GitHub, VS Code, Docker (iniciando)
-- **Soft Skills:** Trabalho em equipe, comunicação, foco em solução de problemas
+- Linguagens: Pascal, Delphi, Python, C, C#, JavaScript, HTML
+- Frameworks: React, VCL/Firemonkey (Delphi), PyQt5
+- Bancos de dados: SQLite, Firebird, Firebase
+- Ferramentas: Git, GitHub, VS Code, Docker (iniciando)
+- Soft skills: comunicação, colaboração, foco em solução
 
 ---
 
-## 📚 Atualmente Estudando
+## O que estou estudando
 
 - Estruturas de dados e algoritmos
-- Desenvolvimento mobile e desktop (Delphi/Pascal)
-- Automação de tarefas com Python
-- Boas práticas de versionamento com Git/GitHub
-- Conceitos de UI/UX
+- Boas práticas de engenharia de software
+- Desenvolvimento front-end (React) e interfaces acessíveis
+- Automação e scripts em Python
 
 ---
 
-## 🎯 Objetivos Profissionais
+## Projetos em destaque
 
-- 📈 Tornar-me desenvolvedor fullstack
-- 🧩 Criar soluções úteis, intuitivas e com impacto real
-- 💡 Usar tecnologia como ferramenta de acessibilidade e inclusão
-- 🌱 Aprender continuamente
+Abaixo eu destaquei dois projetos que representam bem meu trabalho mais recente — projetos com demonstrações de lógica, front-end e atenção à experiência do usuário.
 
----
+### LixeiraTech (Principal)
+- Repositório: [LixeiraTech](https://github.com/JoaoAntonio08/LixeiraTech)
+- Linguagem: JavaScript
+- Descrição resumida: Plataforma web voltada para conscientização e gerenciamento de descarte de resíduos; inclui interface interativa para pesquisa de pontos de coleta, informações sobre reciclagem e protótipos de workflow para gerenciamento de conteúdo.
+- Diferencial: foco em UX simples, responsividade e lógica de filtragem/visualização de dados. Ideal para demonstrar habilidades em interfaces, consumo de APIs e estruturação de projetos front-end.
 
-## 🏆 Projetos Recentes
-
-Abaixo estão alguns dos meus repositórios públicos mais recentes. Para ver mais detalhes, clique nos nomes.
-
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| [The-Collector-Binarie](https://github.com/JoaoAntonio08/The-Collector-Binarie) | IDE/Tool para explorar e interagir com código binário; interface com PyQt5 | Python, PyQt5 |
-| [Pomodoro](https://github.com/JoaoAntonio08/Pomodoro) | Aplicativo Pomodoro para auxiliar estudos e produtividade | JavaScript, HTML, CSS |
-| [EconRadar](https://github.com/JoaoAntonio08/EconRadar) | Projeto front-end em HTML — pesquisa e visualização (licença GPL-3.0) | HTML, CSS, JavaScript |
-| [LixeiraTech](https://github.com/JoaoAntonio08/LixeiraTech) | Projeto em JavaScript — funcionalidades e interfaces web | JavaScript |
-| [Bate-Papo](https://github.com/JoaoAntonio08/Bate-Papo) | Aplicação de chat simples | JavaScript |
-| [Lista-Tarefas](https://github.com/JoaoAntonio08/Lista-Tarefas) | Lista de tarefas com integração (Firebase) | ReactJS, Firebase |
-| [Calculadora-DELPHI](https://github.com/JoaoAntonio08/Calculadora-DELPHI) | Calculadora desenvolvida em Delphi/Pascal | Pascal, Delphi |
-| [Menu-Verficao-Salvamento-de-Usuario](https://github.com/JoaoAntonio08/Menu-Verficao-Salvamento-de-Usuario) | Mini-sistema com menu e salvamento de dados | C# |
-
-<sup>🔗 Mais projetos e atualizações no meu perfil — visite minha página de repositórios para ver novidades.</sup>
+### EconRadar (Principal)
+- Repositório: [EconRadar](https://github.com/JoaoAntonio08/EconRadar)
+- Linguagem: HTML / JavaScript
+- Descrição resumida: Projeto front-end que agrega e exibe indicadores econômicos / dados públicos com foco em visualização e pesquisa. Projetado para ser uma ferramenta leve de consulta e insight — com atenção a clareza na apresentação dos dados.
+- Diferencial: ênfase em layout claro, apresentação de dados e organização do conteúdo para facilitar tomada de decisão.
 
 ---
 
-## 📫 Onde Me Encontrar
+## Outros projetos
+- [The-Collector-Binarie](https://github.com/JoaoAntonio08/The-Collector-Binarie) — IDE/ ferramenta para exploração de código binário (Python, PyQt5).
+- [Pomodoro](https://github.com/JoaoAntonio08/Pomodoro) — Aplicativo Pomodoro para auxiliar nos estudos (JavaScript).
+- [Bate-Papo](https://github.com/JoaoAntonio08/Bate-Papo) — Aplicação de chat simples (JavaScript).
+- [Lista-Tarefas](https://github.com/JoaoAntonio08/Lista-Tarefas) — Lista de tarefas com integração (ReactJS, Firebase).
+- [Calculadora-DELPHI](https://github.com/JoaoAntonio08/Calculadora-DELPHI) — Calculadora em Delphi/Pascal.
+- [Menu-Verficao-Salvamento-de-Usuario](https://github.com/JoaoAntonio08/Menu-Verficao-Salvamento-de-Usuario) — Mini-sistema em C# com opções de menu e salvamento.
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/joão-antonio-biffi-165ba136a/)
-- 📬 Email: ja.abiffi@gmail.com
+---
+
+## Como contribuir / testar
+- Acesse o repositório do projeto que deseja testar.
+- Abra issues ou PRs com sugestões e correções — fico feliz em receber feedback.
+- Se quiser ver algo específico (screenshots, demo, deploy), me avise que eu adiciono ao README do projeto.
+
+---
+
+## Contato
+- LinkedIn: https://www.linkedin.com/in/joão-antonio-biffi-165ba136a/
+- Email: ja.abiffi@gmail.com
 
 ---
 
@@ -99,82 +99,69 @@ Abaixo estão alguns dos meus repositórios públicos mais recentes. Para ver ma
 
 ## <a id="en">🇺🇸 English</a>
 
-<h1 align="center">👋 Hello! I'm João Biffi</h1>
-<p align="center">💻 Software Development Student & Future Fullstack Developer | 📍 Cascavel - PR, Brazil | 🧠 Always Evolving</p>
+<h1 align="center">👋 Hi — I'm João Biffi</h1>
+<p align="center">Developer in training — building towards fullstack. 📍 Cascavel - PR | 🧠 Always learning</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Pascal-35495E?style=for-the-badge&logo=delphi&logoColor=white" alt="Pascal"/>
-  <img src="https://img.shields.io/badge/-Delphi-EC1C24?style=for-the-badge&logo=delphi&logoColor=white" alt="Delphi"/>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/-Firebird-E31B23?style=for-the-badge&logo=firebird&logoColor=white" alt="Firebird"/>
 </p>
 
 ---
 
-## 🚀 About Me
+## About me
 
-I'm passionate about technology and innovation. My goal is to become a **fullstack developer**, mastering both front-end and back-end.
-
-> _"Code with purpose, grow with direction."_
+I'm João Biffi — a developer who turns curiosity into tangible projects. I focus on simple, useful solutions with attention to usability and clean code. Currently strengthening front-end skills (React/JavaScript) and lightweight back-end tools.
 
 ---
 
-## 🧠 Skills & Tools
+## Skills & tools
 
-- **Languages:** Pascal, Delphi, Python, C, C#, JavaScript, HTML
-- **Frameworks & Libraries:** React, VCL/Firemonkey (Delphi), PyQt5
-- **Databases:** SQLite, Firebird, Firebase
-- **Tools:** Git, GitHub, VS Code, Docker (beginner)
-- **Soft Skills:** Teamwork, communication, problem-solving focus
-
----
-
-## 📚 Currently Learning
-
-- Data structures and algorithms
-- Mobile and desktop development (Delphi/Pascal)
-- Task automation with Python
-- Good version control practices with Git/GitHub
-- UI/UX concepts
+- Languages: Pascal, Delphi, Python, C, C#, JavaScript, HTML
+- Frameworks: React, VCL/Firemonkey (Delphi), PyQt5
+- Databases: SQLite, Firebird, Firebase
+- Tools: Git, GitHub, VS Code, Docker (beginner)
 
 ---
 
-## 🎯 Professional Goals
+## Highlighted projects
 
-- 📈 Become a fullstack developer
-- 🧩 Create useful, intuitive, and impactful solutions
-- 💡 Use technology as an accessibility and inclusion tool
-- 🌱 Keep learning and improving
+### LixeiraTech (Main)
+- Repo: [LixeiraTech](https://github.com/JoaoAntonio08/LixeiraTech)
+- Tech: JavaScript
+- Short description: Web platform focused on waste disposal awareness and management — interactive search for collection points and resources about recycling.
+- Why it matters: Demonstrates UI work, data filtering and responsive design.
 
----
-
-## 🏆 Recent Projects
-
-| Project | Description | Technologies |
-|---|---|---|
-| [The-Collector-Binarie](https://github.com/JoaoAntonio08/The-Collector-Binarie) | IDE/Tool to explore and interact with binary code; PyQt5 interface | Python, PyQt5 |
-| [Pomodoro](https://github.com/JoaoAntonio08/Pomodoro) | Pomodoro app to help with study sessions and productivity | JavaScript, HTML, CSS |
-| [EconRadar](https://github.com/JoaoAntonio08/EconRadar) | Front-end project in HTML — research and visualization (GPL-3.0) | HTML, CSS, JavaScript |
-| [LixeiraTech](https://github.com/JoaoAntonio08/LixeiraTech) | JavaScript project with web interfaces | JavaScript |
-| [Bate-Papo](https://github.com/JoaoAntonio08/Bate-Papo) | Simple chat application | JavaScript |
-| [Lista-Tarefas](https://github.com/JoaoAntonio08/Lista-Tarefas) | Task list with Firebase integration | ReactJS, Firebase |
-| [Calculadora-DELPHI](https://github.com/JoaoAntonio08/Calculadora-DELPHI) | Calculator built with Delphi/Pascal | Pascal, Delphi |
-| [Menu-Verficao-Salvamento-de-Usuario](https://github.com/JoaoAntonio08/Menu-Verficao-Salvamento-de-Usuario) | Mini-system with menu and data saving | C# |
-
-<sup>🔗 More projects and updates on my profile — visit my repositories page to see the latest work.</sup>
+### EconRadar (Main)
+- Repo: [EconRadar](https://github.com/JoaoAntonio08/EconRadar)
+- Tech: HTML / JavaScript
+- Short description: Lightweight front-end to aggregate and present economic indicators and public data with clear visual layout.
+- Why it matters: Emphasis on data presentation and information clarity.
 
 ---
 
-## 📫 Where to Find Me
+## Other projects
+- [The-Collector-Binarie](https://github.com/JoaoAntonio08/The-Collector-Binarie) — Binary exploration tool (Python, PyQt5).
+- [Pomodoro](https://github.com/JoaoAntonio08/Pomodoro) — Pomodoro timer app (JavaScript).
+- [Bate-Papo](https://github.com/JoaoAntonio08/Bate-Papo) — Simple chat app (JavaScript).
+- [Lista-Tarefas](https://github.com/JoaoAntonio08/Lista-Tarefas) — Task list with Firebase (ReactJS, Firebase).
+- [Calculadora-DELPHI](https://github.com/JoaoAntonio08/Calculadora-DELPHI) — Calculator in Delphi/Pascal.
+- [Menu-Verficao-Salvamento-de-Usuario](https://github.com/JoaoAntonio08/Menu-Verficao-Salvamento-de-Usuario) — C# mini-system with menu and data saving.
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/joão-antonio-biffi-165ba136a/)
-- 📬 Email: ja.abiffi@gmail.com
+---
+
+## How to test / contribute
+- Open the repository you want to try.
+- Create issues or PRs with suggestions — feedback is welcome.
+- If you want demos, screenshots or a hosted version added, I can include them on request.
+
+---
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/joão-antonio-biffi-165ba136a/
+- Email: ja.abiffi@gmail.com
 
 ---
 
