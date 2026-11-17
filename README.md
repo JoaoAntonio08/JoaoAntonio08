@@ -1,170 +1,90 @@
-<!-- README multilíngue com abas para PT-BR e EN -->
+<div align="center">
 
-<!-- TABS HEADER -->
-<p align="center">
-  <a href="#pt-br"><b>🇧🇷 Português</b></a> |
-  <a href="#en"><b>🇺🇸 English</b></a>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:D9A441&height=180&section=header&text=Jo%C3%A3o%20Biffi&fontSize=48&fontColor=F5F5F5&fontAlignY=38&desc=Developer%20%7C%20Building%20Kair%C3%B3s%20Interactive&descAlignY=60&descSize=16" alt="João Biffi — Developer and creator of Kairós Interactive" />
 
----
+### Developer · Game creator · Founder-in-progress
 
-## <a id="pt-br">🇧🇷 Português</a>
+**Building thoughtful digital experiences, one project at a time.**  
+📍 Cascavel, Paraná, Brazil · 🌱 Always learning
 
-<h1 align="center">👋 Olá — Eu sou o João Biffi</h1>
-<p align="center">Desenvolvedor em formação — fullstack em construção. 📍 Cascavel - PR | 🧠 Sempre aprendendo</p>
+[![GitHub](https://img.shields.io/badge/GitHub-JoaoAntonio08-181717?style=flat&logo=github)](https://github.com/JoaoAntonio08)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-antonio-biffi-165ba136a/)
+[![Email](https://img.shields.io/badge/Email-Say%20hello-D9A441?style=flat&logo=gmail&logoColor=white)](mailto:ja.abiffi@gmail.com)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Pascal-35495E?style=for-the-badge&logo=delphi&logoColor=white" alt="Pascal"/>
-  <img src="https://img.shields.io/badge/-Delphi-EC1C24?style=for-the-badge&logo=delphi&logoColor=white" alt="Delphi"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
-  <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-</p>
-
----
-
-## Sobre mim
-
-Sou João Biffi — estudante de desenvolvimento que transforma curiosidade em projetos. Gosto de construir soluções práticas que resolvem problemas reais, com foco em usabilidade e código limpo. Atualmente estou fortalecendo conhecimentos em front-end moderno (React/JavaScript) e ferramentas back-end leves.
-
----
-
-## Skills & Ferramentas
-
-- Linguagens: Pascal, Delphi, Python, C, C#, JavaScript, HTML
-- Frameworks: React, VCL/Firemonkey (Delphi), PyQt5
-- Bancos de dados: SQLite, Firebird, Firebase
-- Ferramentas: Git, GitHub, VS Code, Docker (iniciando)
-- Soft skills: comunicação, colaboração, foco em solução
-
----
-
-## O que estou estudando
-
-- Estruturas de dados e algoritmos
-- Boas práticas de engenharia de software
-- Desenvolvimento front-end (React) e interfaces acessíveis
-- Automação e scripts em Python
-
----
-
-## Projetos em destaque
-
-Abaixo eu destaquei dois projetos que representam bem meu trabalho mais recente — projetos com demonstrações de lógica, front-end e atenção à experiência do usuário.
-
-### LixeiraTech (Principal)
-- Repositório: [LixeiraTech](https://github.com/JoaoAntonio08/LixeiraTech)
-- Linguagem: JavaScript
-- Descrição resumida: Plataforma web voltada para conscientização e gerenciamento de descarte de resíduos; inclui interface interativa para pesquisa de pontos de coleta, informações sobre reciclagem e protótipos de workflow para gerenciamento de conteúdo.
-- Diferencial: foco em UX simples, responsividade e lógica de filtragem/visualização de dados. Ideal para demonstrar habilidades em interfaces, consumo de APIs e estruturação de projetos front-end.
-
-### EconRadar (Principal)
-- Repositório: [EconRadar](https://github.com/JoaoAntonio08/EconRadar)
-- Linguagem: HTML / JavaScript
-- Descrição resumida: Projeto front-end que agrega e exibe indicadores econômicos / dados públicos com foco em visualização e pesquisa. Projetado para ser uma ferramenta leve de consulta e insight — com atenção a clareza na apresentação dos dados.
-- Diferencial: ênfase em layout claro, apresentação de dados e organização do conteúdo para facilitar tomada de decisão.
-
----
-
-## Outros projetos
-- [The-Collector-Binarie](https://github.com/JoaoAntonio08/The-Collector-Binarie) — IDE/ ferramenta para exploração de código binário (Python, PyQt5).
-- [Pomodoro](https://github.com/JoaoAntonio08/Pomodoro) — Aplicativo Pomodoro para auxiliar nos estudos (JavaScript).
-- [Bate-Papo](https://github.com/JoaoAntonio08/Bate-Papo) — Aplicação de chat simples (JavaScript).
-- [Lista-Tarefas](https://github.com/JoaoAntonio08/Lista-Tarefas) — Lista de tarefas com integração (ReactJS, Firebase).
-- [Calculadora-DELPHI](https://github.com/JoaoAntonio08/Calculadora-DELPHI) — Calculadora em Delphi/Pascal.
-- [Menu-Verficao-Salvamento-de-Usuario](https://github.com/JoaoAntonio08/Menu-Verficao-Salvamento-de-Usuario) — Mini-sistema em C# com opções de menu e salvamento.
-
----
-
-## Como contribuir / testar
-- Acesse o repositório do projeto que deseja testar.
-- Abra issues ou PRs com sugestões e correções — fico feliz em receber feedback.
-- Se quiser ver algo específico (screenshots, demo, deploy), me avise que eu adiciono ao README do projeto.
-
----
-
-## Contato
-- LinkedIn: https://www.linkedin.com/in/joão-antonio-biffi-165ba136a/
-- Email: ja.abiffi@gmail.com
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JoaoAntonio08&style=flat-square" alt="profile views"/>
-</p>
-
----
-
-## <a id="en">🇺🇸 English</a>
-
-<h1 align="center">👋 Hi — I'm João Biffi</h1>
-<p align="center">Developer in training — building towards fullstack. 📍 Cascavel - PR | 🧠 Always learning</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
-  <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-</p>
+</div>
 
 ---
 
 ## About me
 
-I'm João Biffi — a developer who turns curiosity into tangible projects. I focus on simple, useful solutions with attention to usability and clean code. Currently strengthening front-end skills (React/JavaScript) and lightweight back-end tools.
+Hi, I'm **João Biffi** — a developer who enjoys turning ideas into useful products and memorable experiences. I work across web development and software projects, and I'm currently building **Kairós Interactive**, an independent initiative for original games and digital products.
 
----
+My biggest focus right now is bringing **ORIGIN · Breath of Light**, the first game from Kairós Interactive, to life. I care about clear interfaces, thoughtful details, and learning by building things people can actually explore and use.
 
-## Skills & tools
+## What I'm working on
 
-- Languages: Pascal, Delphi, Python, C, C#, JavaScript, HTML
-- Frameworks: React, VCL/Firemonkey (Delphi), PyQt5
-- Databases: SQLite, Firebird, Firebase
-- Tools: Git, GitHub, VS Code, Docker (beginner)
+- 🎮 **ORIGIN · Breath of Light** — the first game from Kairós Interactive, currently in Alpha.
+- ✨ **Kairós Interactive** — developing the studio's website and shaping its original game projects.
+- 🧩 Growing my skills in front-end development, game development, and software engineering.
 
----
+## Featured projects
 
-## Highlighted projects
+### 🎮 [ORIGIN · Breath of Light](https://github.com/JoaoAntonio08/ORIGIN)
+The first game from **Kairós Interactive**: a 2D platforming and exploration adventure about carrying light through a world in the making. Explore interconnected areas, discover abilities, and face bosses that adapt to repeated tactics.
 
-### LixeiraTech (Main)
-- Repo: [LixeiraTech](https://github.com/JoaoAntonio08/LixeiraTech)
-- Tech: JavaScript
-- Short description: Web platform focused on waste disposal awareness and management — interactive search for collection points and resources about recycling.
-- Why it matters: Demonstrates UI work, data filtering and responsive design.
+`Unity 6.3` `Windows` `Alpha`
 
-### EconRadar (Main)
-- Repo: [EconRadar](https://github.com/JoaoAntonio08/EconRadar)
-- Tech: HTML / JavaScript
-- Short description: Lightweight front-end to aggregate and present economic indicators and public data with clear visual layout.
-- Why it matters: Emphasis on data presentation and information clarity.
+### ✨ [Kairós Interactive — Website](https://github.com/JoaoAntonio08/Kairos-site)
+The studio's digital home: an evolving showcase for original games and digital products, built around an immersive, chapter-based browsing experience.
 
----
+`React` `TypeScript` `Vite` `Tailwind CSS`
 
-## Other projects
-- [The-Collector-Binarie](https://github.com/JoaoAntonio08/The-Collector-Binarie) — Binary exploration tool (Python, PyQt5).
-- [Pomodoro](https://github.com/JoaoAntonio08/Pomodoro) — Pomodoro timer app (JavaScript).
-- [Bate-Papo](https://github.com/JoaoAntonio08/Bate-Papo) — Simple chat app (JavaScript).
-- [Lista-Tarefas](https://github.com/JoaoAntonio08/Lista-Tarefas) — Task list with Firebase (ReactJS, Firebase).
-- [Calculadora-DELPHI](https://github.com/JoaoAntonio08/Calculadora-DELPHI) — Calculator in Delphi/Pascal.
-- [Menu-Verficao-Salvamento-de-Usuario](https://github.com/JoaoAntonio08/Menu-Verficao-Salvamento-de-Usuario) — C# mini-system with menu and data saving.
+### 🌱 [Lixeira Tech](https://github.com/JoaoAntonio08/LixeiraTech)
+A sustainability platform that makes responsible e-waste disposal more visible through community participation, educational content, and measurable environmental impact.
 
----
+`React` `Node.js` `PostgreSQL`
 
-## How to test / contribute
-- Open the repository you want to try.
-- Create issues or PRs with suggestions — feedback is welcome.
-- If you want demos, screenshots or a hosted version added, I can include them on request.
+### 📊 [EconRadar](https://github.com/JoaoAntonio08/EconRadar)
+An economic intelligence project for exploring market data, indicators, and AI-assisted insights through a responsive web interface.
 
----
+`HTML` `JavaScript` `Python` `FastAPI`
 
-## Contact
-- LinkedIn: https://www.linkedin.com/in/joão-antonio-biffi-165ba136a/
-- Email: ja.abiffi@gmail.com
+### 🧠 [The Collector Binarie](https://github.com/JoaoAntonio08/The-Collector-Binarie)
+A desktop tool for exploring binary concepts, with an integrated editor, file explorer, and terminal.
 
----
+`Python` `PyQt5`
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JoaoAntonio08&style=flat-square" alt="profile views"/>
-</p>
+<details>
+<summary><b>More projects</b></summary>
+
+- [call-dos-games](https://github.com/JoaoAntonio08/call-dos-games) — A community platform for voice, chat, screen sharing, clips, and more.
+- [Pomodoro](https://github.com/JoaoAntonio08/Pomodoro) — A simple timer to support focused study sessions.
+- [Bate-Papo](https://github.com/JoaoAntonio08/Bate-Papo) — A lightweight chat application.
+- [Lista-Tarefas](https://github.com/JoaoAntonio08/Lista-Tarefas) — A task manager built with React and Firebase.
+- [Calculadora-DELPHI](https://github.com/JoaoAntonio08/Calculadora-DELPHI) — A calculator built with Delphi/Pascal.
+
+</details>
+
+## Tools & technologies
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,python,cs,git,github,vite,tailwind,firebase&perline=6)](https://skillicons.dev)
+
+</div>
+
+I also have experience with **Delphi/Pascal**, **PyQt5**, **SQLite**, and **Firebird**. I'm currently strengthening my foundations in data structures, accessible UI, and software engineering practices.
+
+## Let's connect
+
+Have an idea, feedback, or just want to talk about games and software? Feel free to reach out.
+
+- **Email:** [ja.abiffi@gmail.com](mailto:ja.abiffi@gmail.com)
+- **LinkedIn:** [João Biffi](https://www.linkedin.com/in/jo%C3%A3o-antonio-biffi-165ba136a/)
+- **GitHub:** [@JoaoAntonio08](https://github.com/JoaoAntonio08)
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D9A441,100:111111&height=100&section=footer" alt="Decorative footer" />
+
+</div>
