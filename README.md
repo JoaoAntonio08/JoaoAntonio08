@@ -1,10 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:D9A441&height=180&section=header&text=Jo%C3%A3o%20Biffi&fontSize=48&fontColor=F5F5F5&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=58" alt="João Biffi" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:D9A441&height=180&section=header&text=Jo%C3%A3o%20Biffi&fontSize=48&fontColor=F5F5F5&fontAlignY=38&desc=Software%20Developer%20%C2%B7%20Delphi%20%C2%B7%20Web%20%C2%B7%20Games&descAlignY=58" alt="João Biffi" />
 
-### Full-stack developer | Web and software development
-
-I build web applications and software, and I also explore game development in personal projects. Based in Cascavel, Paraná, Brazil.
+### Building business software by day, web apps and games by night
 
 [![GitHub](https://img.shields.io/badge/GitHub-JoaoAntonio08-181717?style=flat&logo=github)](https://github.com/JoaoAntonio08)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-antonio-biffi-165ba136a/)
@@ -16,56 +14,97 @@ I build web applications and software, and I also explore game development in pe
 
 ## About me
 
-Hi, I'm **João Biffi**, a full-stack developer interested in building practical, well-crafted applications. I work on projects across the stack, from user interfaces to APIs and data, and enjoy learning new tools by applying them to real projects.
+Hi, I'm **João Biffi**, a software developer from Cascavel, Paraná, Brazil. I've been programming since I was 16.
 
-Alongside web and software development, I work on games as a personal interest. **Kairós Interactive** is an idea for a future game studio, not a company; **ORIGIN · Breath of Light** is a game project I'm developing as part of that idea.
+In my day-to-day work I build and maintain **desktop business systems in Delphi** (versions 7, 10 and 12) with Firebird and SQLite. Much of that work means keeping legacy code healthy while adding new features on top of it. I also use AI to automate tasks and add new capabilities to those systems, and tools like **Claude** and **Lovable** are part of how I build.
 
-## What I'm working on
+Outside of work I build **web applications** with React, TypeScript and Python, and I'm working toward **Kairós Interactive**. It's an idea for a future game studio, not a company yet, and it's where my game projects live.
 
-I'm building and improving full-stack projects, including web applications and **Kairós Interactive's concept website**. In my spare time, I develop **ORIGIN · Breath of Light**, a 2D exploration and platforming game currently in Alpha.
+## Main projects
 
-## Featured projects
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### [Lixeira Tech](https://github.com/JoaoAntonio08/LixeiraTech)
-A full-stack sustainability platform focused on responsible e-waste disposal, community participation and environmental education.
+### [ORIGIN · Breath of Light](https://github.com/JoaoAntonio08/ORIGIN)
+A 2D exploration and platforming game about carrying light through a world in the making. It's the first chapter of the saga I'm planning for Kairós Interactive.
 
-`React` `Node.js` `PostgreSQL`
+`Unity 6.3` `C#` `Alpha`
 
-### [EconRadar](https://github.com/JoaoAntonio08/EconRadar)
-A web application for exploring economic data, market indicators and AI-assisted insights.
-
-`HTML` `JavaScript` `Python` `FastAPI`
-
-### [call-dos-games](https://github.com/JoaoAntonio08/call-dos-games)
-A community platform for voice, chat, screen sharing and clips.
+</td>
+<td width="50%" valign="top">
 
 ### [Kairós Interactive website](https://github.com/JoaoAntonio08/Kairos-site)
-A concept website for a game studio I'm interested in creating in the future. The project explores an immersive, chapter-based way to present games and digital projects.
+A concept site for the studio that presents games and digital products as immersive chapters. I built it as the developer of a team university project.
 
 `React` `TypeScript` `Vite` `Tailwind CSS`
 
-### [ORIGIN · Breath of Light](https://github.com/JoaoAntonio08/ORIGIN)
-A personal 2D platforming and exploration game project about carrying light through a world in the making. Explore connected areas, discover abilities and uncover the story.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-`Unity 6.3` `Windows` `Alpha`
+### [EconRadar](https://github.com/JoaoAntonio08/EconRadar)
+A financial dashboard that covers exchange rates, crypto and commodities, with AI-assisted insights and alerts.
 
-## Other projects
+`JavaScript` `Python` `FastAPI`
 
-[Pomodoro](https://github.com/JoaoAntonio08/Pomodoro) is a timer for focused study sessions. [Bate-Papo](https://github.com/JoaoAntonio08/Bate-Papo) is a lightweight chat application. [Lista-Tarefas](https://github.com/JoaoAntonio08/Lista-Tarefas) is a task manager built with React and Firebase. [Calculadora-DELPHI](https://github.com/JoaoAntonio08/Calculadora-DELPHI) is a calculator built with Delphi and Pascal. [The Collector Binarie](https://github.com/JoaoAntonio08/The-Collector-Binarie) is a desktop tool for exploring binary concepts, with an editor, file explorer and terminal.
+</td>
+<td width="50%" valign="top">
 
-## Tools and technologies
+### [call-dos-games](https://github.com/JoaoAntonio08/call-dos-games)
+A community platform for gamers with voice, chat, screen sharing and clips. It's my take on a Discord-style app.
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### [Lixeira Tech](https://github.com/JoaoAntonio08/LixeiraTech)
+A sustainability platform for responsible e-waste disposal that brings together collection points, community participation and environmental education.
+
+`React` `Node.js` `PostgreSQL`
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>More things I've built</b></summary>
+<br>
+
+- [The Collector Binarie](https://github.com/JoaoAntonio08/The-Collector-Binarie): desktop tool for exploring binary concepts, with an editor, file explorer and terminal
+- [Lista-Tarefas](https://github.com/JoaoAntonio08/Lista-Tarefas): task manager with React and Firebase
+- [Bate-Papo](https://github.com/JoaoAntonio08/Bate-Papo): lightweight chat app
+- [Pomodoro](https://github.com/JoaoAntonio08/Pomodoro): focus timer for study sessions
+- [Calculadora-DELPHI](https://github.com/JoaoAntonio08/Calculadora-DELPHI): calculator in Delphi/Pascal
+
+</details>
+
+## Tech I work with
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,python,cs,git,github,vite,tailwind,firebase&perline=6)](https://skillicons.dev)
+**Day job**
+
+![Delphi](https://img.shields.io/badge/Delphi-7%20%C2%B7%2010%20%C2%B7%2012-EE1F35?style=for-the-badge&logo=delphi&logoColor=white)
+![Firebird](https://img.shields.io/badge/Firebird-F40F02?style=for-the-badge&logo=firebird&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Web, games and side projects**
+
+[![Skills](https://skillicons.dev/icons?i=react,ts,js,python,cs,nodejs,fastapi,postgres,firebase,unity,vite,tailwind,git&perline=7)](https://skillicons.dev)
+
+**AI in my workflow**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-FF4F8B?style=for-the-badge&logoColor=white)
 
 </div>
 
-I also have experience with **Delphi/Pascal**, **PyQt5**, **SQLite** and **Firebird**. I'm strengthening my foundations in data structures, accessible UI and software engineering.
+## Let's connect
 
-## Contact
-
-I'm open to connecting about software development, web projects and collaboration. Reach me at [ja.abiffi@gmail.com](mailto:ja.abiffi@gmail.com), connect on [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-antonio-biffi-165ba136a/) or find me on [GitHub](https://github.com/JoaoAntonio08).
+I'm open to talking about software development, web projects, games and collaboration. You can reach me at [ja.abiffi@gmail.com](mailto:ja.abiffi@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-antonio-biffi-165ba136a/).
 
 <div align="center">
 
