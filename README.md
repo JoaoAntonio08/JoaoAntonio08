@@ -55,6 +55,8 @@ A financial dashboard that covers exchange rates, crypto and commodities, with A
 ### [call-dos-games](https://github.com/JoaoAntonio08/call-dos-games)
 A community platform for gamers with voice, chat, screen sharing and clips. It's my take on a Discord-style app.
 
+`Next.js` `FastAPI` `LiveKit` `Tauri`
+
 </td>
 </tr>
 <tr>
@@ -73,10 +75,12 @@ A sustainability platform for responsible e-waste disposal that brings together 
 <summary><b>More things I've built</b></summary>
 <br>
 
+- [Crew Radio](https://github.com/JoaoAntonio08/crew-radio): GTA-style radio overlay for The Crew 2, playing my YouTube Music playlists
+- [Kairós Hefesto](https://github.com/JoaoAntonio08/kairos-hefesto): free Windows app for diagnostics, maintenance and games
 - [The Collector Binarie](https://github.com/JoaoAntonio08/The-Collector-Binarie): desktop tool for exploring binary concepts, with an editor, file explorer and terminal
-- [Lista-Tarefas](https://github.com/JoaoAntonio08/Lista-Tarefas): task manager with React and Firebase
-- [Bate-Papo](https://github.com/JoaoAntonio08/Bate-Papo): lightweight chat app
-- [Pomodoro](https://github.com/JoaoAntonio08/Pomodoro): focus timer for study sessions
+- [Lista-Tarefas](https://github.com/JoaoAntonio08/Lista-Tarefas): task manager in React with local storage
+- [Bate-Papo](https://github.com/JoaoAntonio08/Bate-Papo): real-time chat with React and Firebase
+- [Pomodoro](https://github.com/JoaoAntonio08/Pomodoro): study planner with a Pomodoro timer, built with Flask
 - [Calculadora-DELPHI](https://github.com/JoaoAntonio08/Calculadora-DELPHI): calculator in Delphi/Pascal
 
 </details>
